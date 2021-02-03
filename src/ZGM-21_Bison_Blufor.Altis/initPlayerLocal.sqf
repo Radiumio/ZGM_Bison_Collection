@@ -22,3 +22,6 @@ if (_is_curator) then
 };
 
 [] execVM "scripts\rules.sqf";
+
+// initialise custom modules for Achilles/ZEN
+[] spawn tts_beam_fnc_customZeusModules;

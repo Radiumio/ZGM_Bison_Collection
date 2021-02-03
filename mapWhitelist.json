@@ -10,7 +10,6 @@
     "Chernarus_Winter": "Chernarus (Winter)",
     "OPTRE_Gridlock": "Gridlock",
     "OPTRE_iberius": "Iberius",
-    "OPTRE_Installation04": "Installation 04",
     "OPTRE_Kholo": "Kholo",
     "Kunduz": "Kunduz, Afghanistan",
     "OPTRE_Madrigal": "Madrigal",
@@ -24,5 +23,9 @@
     "fox_hutan": "Hutan",
     "Arctic": "Arctic",
     "Offworld_Cold": "Offworld (Cold)",
-    "Offworld_Warm": "Offworld (Warm)"
+    "Offworld_Warm": "Offworld (Warm)",
+    "OPTRE_Archipelago": "IO4: Archipelago",
+    "OPTRE_Installation04": "Installation 04",
+    "OPTRE_Wetlands": "IO4: Wetlands",
+    "OPTRE_Phobos": "Phobos"
 }

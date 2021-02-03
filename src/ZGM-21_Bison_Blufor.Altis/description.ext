@@ -27,5 +27,14 @@ class Header
 	minPlayers = 1;
 	maxPlayers = 21;
 };
+class CfgFunctions
+{
+	#include "scripts\tts_beam\cfgFunctions.hpp"
+};
+
+class CfgSounds {
+	sounds[] = {};
+	#include "scripts\tts_beam\cfgSounds.hpp"
+};
 
 #include "params.hpp"
