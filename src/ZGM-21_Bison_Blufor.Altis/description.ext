@@ -30,11 +30,20 @@ class Header
 class CfgFunctions
 {
 	#include "scripts\tts_beam\cfgFunctions.hpp"
+	#include "scripts\tts_cloak\cfgFunctions.hpp"
 };
 
 class CfgSounds {
 	sounds[] = {};
 	#include "scripts\tts_beam\cfgSounds.hpp"
+	#include "scripts\tts_cloak\cfgSounds.hpp"
+};
+
+// cloak ui defines
+#include "scripts\tts_cloak\ui\defines.hpp"
+class RscTitles
+{
+	#include "scripts\tts_cloak\ui\display.hpp"
 };
 
 #include "params.hpp"

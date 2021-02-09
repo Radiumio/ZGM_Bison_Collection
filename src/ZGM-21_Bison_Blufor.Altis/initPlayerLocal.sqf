@@ -23,5 +23,8 @@ if (_is_curator) then
 
 [] execVM "scripts\rules.sqf";
 
-// initialise custom modules for Achilles/ZEN
+// initialise beam laser custom modules for ZEN
 [] spawn tts_beam_fnc_customZeusModules;
+
+// initialise cloak module for ZEN
+[] spawn tts_cloak_fnc_customZeusModules;
