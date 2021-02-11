@@ -9,3 +9,4 @@ tools/node_modules
 tools/package-lock.json
 .vscode
 release.zip
+missionWhitelist.dat
