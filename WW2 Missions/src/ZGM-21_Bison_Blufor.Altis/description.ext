@@ -1,8 +1,8 @@
 #include "paramDefault.hpp"
 
-author = "the ZEN Team";
-onLoadName = "Zeus 20+1 Zeus Enhanced Altis";
-overviewPicture = "images\zen_blufor.paa";
+author = "Radium (thanks to ZEN team)";
+onLoadName = "Zeus 20+1 Bison Altis";
+overviewPicture = "images\bison_blufor.paa";
 overviewText = "$STR_A3_moduleMPTypeGameMaster_overviewText";
 overviewTextLocked = "";
 

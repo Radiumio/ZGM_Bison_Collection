@@ -1,6 +1,6 @@
 waitUntil {!isNull player};
 player createDiarySubject ["Server Rules", "Server Rules"];
-player createDiaryRecord ["Server Rules", ["Rules", "<font size='20'><font color='#ffa500'>ACHILLES/ZEN PUBLIC SERVER</font color></font size> 
+player createDiaryRecord ["Server Rules", ["Rules", "<font size='20'><font color='#ffa500'>BISON PUBLIC SERVER</font color></font size> 
 <br/> 
 <font color='#808080'>Please follow these rules whilst on the server. This may appear to be your typical public Zeus server, but we do enforce our rules and want to keep it as a fun, peaceful place to coordinate and play in.</font color> 
  
@@ -73,11 +73,4 @@ player createDiaryRecord ["Server Rules", ["Rules", "<font size='20'><font color
  
 <font color='#ff0000'>Any of the above is a bannable offense if broken repeatedly. Be warned.</font color><br/> 
 <font size='18'><font color='#008000'>Thank you in advance for your cooperation.</font color></font size><br/> 
-<font color='#808080'>- Radium and the Community Team</font color> 
-<br/><br/> 
- 
-<font color='#808080'>NB: The <font color='#ffffff'>Zeus Enhanced Community Team</font color> represent the moderation team for this server, and are represented by tags with the <font color='#008000'>official logo</font color> embedded in their insignia:<br/> 
-<font color='#67b4fb'>[ZENCT]</font color> (Zeus Enhanced Community Team)<br/><br/> 
- 
-<font color='#808080'>If you are unsure if whether an admin is acting correctly or is an official admin, please contact us <font color='#ffa500'>directly</font color> on our Discord.</font color><br/> 
-<font color='#67b4fb'>https://discord.gg/vSSyghh</font color>"]];
+<font color='#808080'>- Radium</font color>"]];

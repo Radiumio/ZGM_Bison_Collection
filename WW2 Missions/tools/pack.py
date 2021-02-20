@@ -8,9 +8,9 @@ import shutil
 import subprocess
 import sys
 
-FOLDER_PREFIX = 'ZGM-21_Zeus_Enhanced'
-IMAGE_NAME_PREFIX = 'zen'
-NAME_PREFIX = 'Zeus 20+1 Zeus Enhanced'
+FOLDER_PREFIX = 'ZGM-21_Bison'
+IMAGE_NAME_PREFIX = 'bison'
+NAME_PREFIX = 'Zeus 20+1 Bison'
 
 TEMPLATE_FOLDER = FOLDER_PREFIX + '_Blufor.Altis'
 TEMPLATE_IMAGE_NAME = IMAGE_NAME_PREFIX + '_blufor'
