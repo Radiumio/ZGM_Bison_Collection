@@ -1,0 +1,31 @@
+#include "paramDefault.hpp"
+
+author = "the ZEN Team";
+onLoadName = "Zeus 20+1 Zeus Enhanced Altis";
+overviewPicture = "images\zen_blufor.paa";
+overviewText = "$STR_A3_moduleMPTypeGameMaster_overviewText";
+overviewTextLocked = "";
+
+respawn = 2;
+respawnDelay = DEFAULT_PLAYER_RESPAWN_DELAY;
+respawnVehicleDelay = DEFAULT_VEHICLE_RESPAWN_DELAY;
+respawnTemplates[] = {"MenuPosition","MenuInventory","Tickets"};
+respawnTemplatesVirtual[] = {};
+
+disabledAI = 1;
+joinUnassigned = 1;
+aiKills  = 1;
+
+briefing = 0;
+enableDebugConsole = 1;
+respawnDialog = 0;
+saving = 0;
+
+class Header
+{
+	gameType = Zeus;
+	minPlayers = 1;
+	maxPlayers = 21;
+};
+
+#include "params.hpp"
