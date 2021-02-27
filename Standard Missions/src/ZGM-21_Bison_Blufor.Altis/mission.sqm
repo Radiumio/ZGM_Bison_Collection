@@ -330,13 +330,13 @@ class Mission
 						items=6;
 						class Item0
 						{
-							value="50";
+							value="30";
 							parentCls="RyanZM_ModuleInfected";
 							typeName="InfectedChance";
 						};
 						class Item1
 						{
-							value="5";
+							value="0.2";
 							parentCls="RyanZM_ModuleInfected";
 							typeName="InfectedRate";
 						};
