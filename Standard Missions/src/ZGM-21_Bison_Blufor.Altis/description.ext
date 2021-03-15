@@ -29,6 +29,13 @@ class Header
 };
 class CfgFunctions
 {
+	    class sebs_briefing_table {
+        class sebs_briefing_table {
+            file = "scripts\sebsBriefingTable";
+            class createTable {};
+            class clearTable {};
+        };
+    };
 	#include "scripts\tts_beam\cfgFunctions.hpp"
 	#include "scripts\tts_cloak\cfgFunctions.hpp"
 };
