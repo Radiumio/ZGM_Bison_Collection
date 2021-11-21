@@ -25,8 +25,9 @@
     "Offworld_Cold": "Offworld (Cold)",
     "Offworld_Warm": "Offworld (Warm)",
     "OPTRE_Archipelago": "IO4: Archipelago",
-    "OPTRE_Installation04": "Installation 04",
+    "OPTRE_Snowlands": "IO4: Coldlands",
     "OPTRE_Wetlands": "IO4: Wetlands",
+    "OPTRE_Installation04": "IO4: Highlands",
     "OPTRE_Phobos": "Phobos",
     "Desert_E": "Desert",
     "Shapur_BAF": "Shapur",
@@ -36,5 +37,7 @@
     "Woodland_ACR": "Bystrica",
     "Bootcamp_ACR": "Bukovina",
     "Esseker": "Esseker",
-    "K9S_Wallaroo": "Straya"
+    "K9S_Wallaroo": "Straya",
+    "OPTRE_Arcadia": "Arcadia",
+    "SefrouRamal": "Sefrou-Ramal"
 }
