@@ -1,6 +1,6 @@
 # Ignore tmp files
 tmp/
-Standard Missions\src\ZGM-21_Bison_Blufor.Altis\sounds
+Standard Missions/src/ZGM-21_Bison_Blufor.Altis/sounds
 
 # Ignore PBOs and BINs
 *.pbo
