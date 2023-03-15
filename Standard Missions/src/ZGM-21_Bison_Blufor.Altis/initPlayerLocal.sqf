@@ -28,3 +28,6 @@ if (_is_curator) then
 
 // initialise cloak module for ZEN
 [] spawn tts_cloak_fnc_customZeusModules;
+
+// Adding RAS sounds into the Crows Zeus Modules PlaySound module
+// crowsEW_sounds_soundAttributes set ["your_sound_unique_name", [1.5, "your_sound_path.ogg", "Your Sound displayname (2s)"]];
