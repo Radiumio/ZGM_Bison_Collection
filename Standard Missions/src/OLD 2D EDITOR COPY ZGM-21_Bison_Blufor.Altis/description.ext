@@ -1,0 +1,56 @@
+#include "paramDefault.hpp"
+
+author = "Radium (thanks to ZEN team)";
+onLoadName = "Zeus 20+1 Bison Altis";
+overviewPicture = "images\bison_blufor.paa";
+overviewText = "$STR_A3_moduleMPTypeGameMaster_overviewText";
+overviewTextLocked = "";
+
+respawn = 2;
+respawnDelay = DEFAULT_PLAYER_RESPAWN_DELAY;
+respawnVehicleDelay = DEFAULT_VEHICLE_RESPAWN_DELAY;
+respawnTemplates[] = {"MenuPosition","MenuInventory","Tickets"};
+respawnTemplatesVirtual[] = {};
+
+disabledAI = 1;
+joinUnassigned = 1;
+aiKills  = 1;
+
+briefing = 0;
+enableDebugConsole = 1;
+respawnDialog = 0;
+saving = 0;
+
+class Header
+{
+	gameType = Zeus;
+	minPlayers = 1;
+	maxPlayers = 21;
+};
+class CfgFunctions
+{
+	    class sebs_briefing_table {
+        class sebs_briefing_table {
+            file = "scripts\sebsBriefingTable";
+            class createTable {};
+            class clearTable {};
+        };
+    };
+	#include "scripts\tts_beam\cfgFunctions.hpp"
+	#include "scripts\tts_cloak\cfgFunctions.hpp"
+};
+
+class CfgSounds {
+	sounds[] = {};
+	#include "scripts\tts_beam\cfgSounds.hpp"
+	#include "scripts\tts_cloak\cfgSounds.hpp"
+};
+
+// cloak ui defines
+#include "scripts\tts_cloak\ui\defines.hpp"
+class RscTitles
+{
+	#include "scripts\tts_cloak\ui\display.hpp"
+};
+
+#include "params.hpp"

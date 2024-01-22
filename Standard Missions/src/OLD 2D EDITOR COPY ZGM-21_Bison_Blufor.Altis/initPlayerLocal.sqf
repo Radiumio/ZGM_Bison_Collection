@@ -21,6 +21,8 @@ if (_is_curator) then
 	ctrlMapAnimCommit _curatorMapCtrl;
 };
 
+[] execVM "scripts\rules.sqf";
+
 // initialise beam laser custom modules for ZEN
 [] spawn tts_beam_fnc_customZeusModules;
 
