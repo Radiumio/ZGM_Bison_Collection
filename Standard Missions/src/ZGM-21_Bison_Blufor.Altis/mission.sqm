@@ -18,9 +18,9 @@ class EditorData
 	class Camera
 	{
 		pos[]={528.40234,29.883467,463.27246};
-		dir[]={0.40897095,-0.46458891,0.78543568};
-		up[]={0.21456595,0.88552523,0.41207743};
-		aside[]={0.88696969,-1.3681711e-007,-0.46183911};
+		dir[]={0.65878367,-0.29371169,0.69264394};
+		up[]={0.20242238,0.9558934,0.21282607};
+		aside[]={0.7246024,1.9208528e-008,-0.68918037};
 	};
 };
 binarizationWanted=0;
@@ -119,7 +119,7 @@ class CustomAttributes
 				class data
 				{
 					singleType="BOOL";
-					value=1;
+					value=0;
 				};
 			};
 		};
@@ -184,7 +184,7 @@ class CustomAttributes
 				class data
 				{
 					singleType="BOOL";
-					value=1;
+					value=0;
 				};
 			};
 		};

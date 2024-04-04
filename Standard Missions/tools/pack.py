@@ -16,11 +16,11 @@ TEMPLATE_FOLDER = FOLDER_PREFIX + '_Blufor.Altis'
 TEMPLATE_IMAGE_NAME = IMAGE_NAME_PREFIX + '_blufor'
 TEMPLATE_EXT_MISSION_NAME = NAME_PREFIX + ' Altis'
 TEMPLATE_SQM_MISSION_NAME = NAME_PREFIX + ' Altis (BLUFOR)'
-TEMPLATE_SIDE = 'WEST'
+TEMPLATE_SIDE = 'West'
 TEMPLATE_SOLDIER = 'B_Soldier_F'
 
 SIDE_NAMES = ['blufor', 'opfor', 'greenfor']
-SIDES = ['WEST', 'EAST', 'GUER']
+SIDES = ['West', 'East', 'Guer']
 SOLDIERS = ['B_Soldier_F', 'O_Soldier_F', 'I_Soldier_F']
 
 map_keys = []
