@@ -38,7 +38,7 @@ class CfgFunctions
     };
 	#include "scripts\tts_beam\cfgFunctions.hpp"
 	#include "scripts\tts_cloak\cfgFunctions.hpp"
-    #include "scripts\tts_emisssion\cfgFunctions.hpp"
+    #include "scripts\tts_emission\cfgFunctions.hpp"
 };
 
 class CfgSounds {
