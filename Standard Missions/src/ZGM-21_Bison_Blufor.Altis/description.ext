@@ -45,6 +45,7 @@ class CfgSounds {
 	sounds[] = {};
 	#include "scripts\tts_beam\cfgSounds.hpp"
 	#include "scripts\tts_cloak\cfgSounds.hpp"
+	#include "scripts\tts_emission\cfgSounds.hpp"
 };
 
 // cloak ui defines
